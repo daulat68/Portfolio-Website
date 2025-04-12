@@ -4,7 +4,7 @@ This is my personal portfolio website built with **React**, showcasing my skills
 
 ## 🌐 Live Demo
 
-
+Check out the live site here: [https://portfolio-daulat.netlify.app]
 
 ## 🛠 Tech Stack
 

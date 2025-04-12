@@ -1,6 +1,6 @@
 const header = {
     // all the properties are optional - can be left empty or deleted
-    homepage: '',
+    homepage: 'https://portfolio-daulat.netlify.app',
     title: 'DS.',
   }
   
@@ -10,7 +10,7 @@ const header = {
     role: 'Web Developer',
     description:
       'A Full Stack Web Developer with a strong foundation in C, C++, Python, and JavaScript. I specialize in building responsive and dynamic web applications using ReactJS, Tailwind CSS, and Bootstrap on the frontend, while leveraging Node.js, Express, and RESTful APIs on the backend. I work comfortably with both MySQL and MongoDB, and use tools like Git, GitHub, and Postman to streamline development and testing. I enjoy solving real-world problems through clean, efficient code and am always eager to learn and adopt new technologies.',
-    resume: 'https://example.com',
+    resume: 'resume.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/daulat68',
       github: 'https://github.com/daulat68',
@@ -32,17 +32,17 @@ const header = {
       name: 'Food App',
       description:
         'This is a food ordering application built using React and Parcel. It fetches restaurant data from an API and displays restaurant menus, categories, and food items. Users can check online status, log in/out, and view their details.',
-      stack: ['Tailwind', 'Redux', 'React'],
+      stack: ['Tailwind CSS', 'Redux', 'React'],
       sourceCode: 'https://github.com/daulat68/Food-App',
       livePreview: 'https://food-app-by-daulat.netlify.app/',
     },
     {
-      name: 'Project 3',
+      name: 'ToDesktop Website Clone',
       description:
-        'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-      stack: ['SASS', 'TypeScript', 'React'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+        'This project is a clone of the ToDesktop website, designed to provide users with a seamless experience for creating desktop applications from web apps. The site features a modern layout with responsive design, enhanced using Tailwind CSS and JavaScript for dynamic animations and interactive elements.',
+      stack: ['HTML', 'Javascript', 'Tailwind CSS'],
+      sourceCode: 'https://github.com/daulat68/ToDesktop-Clone',
+      livePreview: 'https://daulat68.github.io/ToDesktop-Clone/',
     },
   ]
   
