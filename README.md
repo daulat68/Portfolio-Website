@@ -11,7 +11,7 @@ Check out the live site here: [https://portfolio-daulat.netlify.app]
 - **Frontend:** React, HTML, CSS 
 - **Icons:** Material UI Icons
 - **State Management:** React Hooks (`useState`, `useEffect`, `useContext`)
-- **Tools:** Git, GitHub, Vite 
+- **Tools:** Vite 
 
 ##  Features
 
