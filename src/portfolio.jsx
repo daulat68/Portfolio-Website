@@ -21,6 +21,26 @@ const header = {
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
+      name: 'ChatApp',
+      description:
+        'A real-time chat application built with the MERN stack, Socket.io, and Redis. Features JWT authentication with Brevo email OTP verification, one-to-one messaging, online/offline status, global state with Zustand, and a responsive TailwindCSS + DaisyUI interface with multiple themes.',
+      stack: [
+        'React',
+        'TailwindCSS',
+        'DaisyUI',
+        'Zustand',
+        'Node.js',
+        'Express.js',
+        'Socket.io',
+        'Redis',
+        'MongoDB',
+        'Brevo',
+        'JWT',
+      ],
+      sourceCode: 'https://github.com/daulat68/Chat-App',
+      livePreview: 'https://chat-app-jwzl.onrender.com/',
+    },
+    {
       name: 'Game Listing Website',
       description:
         'It is a responsive React application that allows users to discover, search, and bookmark video games. It features authentication with Clerk, state management through Redux Toolkit, and data fetched from a RAWG API. Users can view detailed game information, browse screenshots, filter games by category or tag, and save their favorite games.',
@@ -64,7 +84,8 @@ const header = {
     'Tailwind CSS',
     'Bootstrap',
     'Git/Github',
-    'Jest',
+    'Scrapy',
+    'Playwright',
   ]
   
   const contact = {
