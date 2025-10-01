@@ -43,7 +43,7 @@ const header = {
     {
       name: 'Game Listing Website',
       description:
-        'It is a responsive React application that allows users to discover, search, and bookmark video games. It features authentication with Clerk, state management through Redux Toolkit, and data fetched from a RAWG API. Users can view detailed game information, browse screenshots, filter games by category or tag, and save their favorite games.',
+        'Game Finder is a responsive React app with Clerk authentication, Redux Toolkit, and RAWG API integration. It supports game discovery, filtering, bookmarking, and uses GitHub Actions to build & push Docker images to Docker Hub.',
       stack: ['React', 'Clerk Authentication', 'Redux'],
       sourceCode: 'https://github.com/daulat68/Game-Finder',
       livePreview: 'https://game-finderbydaulat.netlify.app/',
