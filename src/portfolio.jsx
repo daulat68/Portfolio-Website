@@ -7,9 +7,9 @@ const header = {
   const about = {
     // all the properties are optional - can be left empty or deleted
     name: 'Daulat Singh',
-    role: 'Web Developer',
+    role: 'Software Developer',
     description:
-      'A Full Stack Web Developer with a strong foundation in C, C++, Python, and JavaScript. I specialize in building responsive and dynamic web applications using ReactJS, Tailwind CSS, and Bootstrap on the frontend, while leveraging Node.js, Express, and RESTful APIs on the backend. I work comfortably with both MySQL and MongoDB, and use tools like Git, GitHub, and Postman to streamline development and testing. I enjoy solving real-world problems through clean, efficient code and am always eager to learn and adopt new technologies.',
+      'A Software Developer with a strong foundation in C, C++, Python, and JavaScript. I specialize in building responsive and dynamic web applications using ReactJS, Tailwind CSS, and Bootstrap on the frontend, while leveraging Node.js, Express, and RESTful APIs on the backend. I work comfortably with both MySQL and MongoDB, and use tools like Git, GitHub, and Postman to streamline development and testing. I enjoy solving real-world problems through clean, efficient code and am always eager to learn and adopt new technologies.',
     resume: 'daulatsingh.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/daulat68',
