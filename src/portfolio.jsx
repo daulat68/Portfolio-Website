@@ -21,7 +21,24 @@ const header = {
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
-      name: 'ChatApp',
+      name: 'DocuFlow',
+      description:
+        'A scalable asynchronous document processing system that uses a queue-based architecture to handle long-running tasks without blocking API requests. Users can upload documents, which are processed in the background and transformed into structured data with lifecycle-based status tracking.',
+      stack: [
+        'React',
+        'TypeScript',
+        'FastAPI',
+        'PostgreSQL',
+        'Supabase',
+        'Redis',
+        'Celery',
+        'Cloudinary',
+      ],
+      sourceCode: 'https://github.com/daulat68/DocuFlow',
+      livePreview: 'https://async-document-processing-system-frontend.onrender.com/',
+    },
+    {
+      name: 'StreamChat',
       description:
         'A real-time chat application built with the MERN stack, Socket.io, and Redis. Features JWT authentication with Brevo email OTP verification, one-to-one messaging, online/offline status, global state with Zustand, and a responsive TailwindCSS + DaisyUI interface with multiple themes.',
       stack: [
@@ -41,7 +58,7 @@ const header = {
       livePreview: 'https://chat-app-jwzl.onrender.com/',
     },
     {
-      name: 'Game Listing Website',
+      name: 'GameFinder',
       description:
         'Game Finder is a responsive React app with Clerk authentication, Redux Toolkit, and RAWG API integration. It supports game discovery, filtering, bookmarking, and uses GitHub Actions to build & push Docker images to Docker Hub.',
       stack: ['React', 'Clerk Authentication', 'Redux'],
