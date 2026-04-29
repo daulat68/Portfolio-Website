@@ -9,7 +9,7 @@ const header = {
     name: 'Daulat Singh',
     role: 'Software Developer',
     description:
-      'A Software Developer with a strong foundation in C, C++, Python, and JavaScript. I specialize in building responsive and dynamic web applications using ReactJS, Tailwind CSS, and Bootstrap on the frontend, while leveraging Node.js, Express, and RESTful APIs on the backend. I work comfortably with both MySQL and MongoDB, and use tools like Git, GitHub, and Postman to streamline development and testing. I enjoy solving real-world problems through clean, efficient code and am always eager to learn and adopt new technologies.',
+      'Software Developer with experience in building scalable backend systems and full-stack applications. Skilled in JavaScript, Python, and C++, with a focus on designing efficient APIs, asynchronous processing pipelines, and data-driven systems. Experienced with React for frontend development and Node.js/FastAPI for backend services, along with PostgreSQL, MongoDB, and Redis for data management. Strong interest in system design, performance optimization, and solving real-world problems through reliable and maintainable code.',
     resume: 'daulatsingh.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/daulat68',
